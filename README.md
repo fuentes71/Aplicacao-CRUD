@@ -1,2 +1,2 @@
-# Aplica-o-CRUD
+# Aplicação-CRUD
 Atividade com a framework Angular.
